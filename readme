@@ -1,0 +1,19 @@
+Example of processor status of Fedora SO using python 3 API.
+
+---First it's needed to folow the steps below:
+1. This Python library required Python 3 installed in your system.
+2. Create your own IoT-Ticket account at https://www.iot-ticket.com/ (Request an invitation)
+3. Wait for the account activation email
+4. Download library from github.
+5. Extract the Zip file, point Pythonpath to the directory that contain the library.
+6. Start using the library in your application.
+
+
+---Download the libraries to be able to get the processor status from your SO:
+sudo yum install gcc python3-devel python3-pip
+pip install psutil
+
+---Set config.json file with the right configurations.
+
+---Execute
+python3 cpupercentagewritedata.py config.json
