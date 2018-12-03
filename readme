@@ -4,7 +4,7 @@ Example of processor status of Fedora SO using python 3 API.
 1. This Python library required Python 3 installed in your system.
 2. Create your own IoT-Ticket account at https://www.iot-ticket.com/ (Request an invitation)
 3. Wait for the account activation email
-4. Download library from github.
+4. Download library from github. https://github.com/IoT-Ticket/IoTTicket-PythonLibrary
 5. Extract the Zip file, point Pythonpath to the directory that contain the library.
 6. Start using the library in your application.
 
